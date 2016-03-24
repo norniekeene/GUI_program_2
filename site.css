@@ -8,7 +8,6 @@
     Description: This is the css style file used for the site located at 
                  dev.mcs.sdsmt.edu/~7111617 and implements the styles for many buttons
                  and divisions of each html file used to develop the website.
-
 */
 
 /* set the margin and padding for all objects to 0 */
@@ -149,14 +148,6 @@ a.btnmainpage
     width: 180px;
 }
 
-/* link style for links along the seperator in the main page when the user hovers above
-   the element */
-a.btnmainpage:hover
-{
-    border: 5px solid #9ae0e5;
-    padding: 15px;
-}
-
 /* link style for links positioned on the bottom of the page */
 a.footerformat
 {
@@ -174,4 +165,10 @@ a.footerformat:hover
     color: #a6a6a6;
 }
 
-
+/* link style for links along the seperator in the main page when the user hovers above
+   the element */
+a.btnmainpage:hover
+{
+    border: 5px solid #9ae0e5;
+    padding: 15px;
+}
