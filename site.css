@@ -53,7 +53,7 @@ div.intro
     padding: 75px;
 }
 
-/* a div stuctured to hold images and text side by side */)
+/* a div stuctured to hold images and text side by side */
 div.picturetxt
 {
     display: flex;
